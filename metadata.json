@@ -1,0 +1,5 @@
+{
+  "name": "GeminiCalc",
+  "description": "A sleek, dual-mode calculator featuring standard arithmetic and a natural language AI solver powered by Gemini.",
+  "requestFramePermissions": []
+}
